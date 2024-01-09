@@ -1,0 +1,5 @@
+a=int(input())
+if a>=90:print(f'A')
+elif a>=80:print(f'B')
+elif a>=60:print(f'C')
+else:print(f'F')
